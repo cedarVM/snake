@@ -5,7 +5,6 @@ So I decided to make my 4-year-old game not suck
  
 # Setting Up Camp:
   ## By Hand:
-  compile ssw
   
   `gcc ssw.c bezier.c snake.c -o snake -lX11`
 
